@@ -35,7 +35,7 @@ I have 4 years of experience in bioinformatics using a variety of -omic methodol
 
 Main repositories I have worked on
 
-<a href="https://www.parkinsonlab.com/"><img align="right" src="media/pictures/Cgodm.png" width=260></a>
+<a href="media/pictures/Cgodm.png"><img align="right" src="media/pictures/Cgodm.png" width=260></a>
 
 ## Main Publications
 
@@ -44,7 +44,7 @@ Main repositories I have worked on
 - [Cerrophidion Crotoxin Models](https://github.com/RamsesRosales/ModelCrotA)
 
 
-<a href="https://www.parkinsonlab.com/"><img align="right" src="media/pictures/Covid19.png" width=200></a>
+<a href="media/pictures/Covid19.png"><img align="right" src="media/pictures/Covid19.png" width=200></a>
 
 ## Tutorials
 Some [tutorials](https://github.com/RamsesRosales/Tutorials/tree/main) that I have done.
@@ -55,7 +55,7 @@ Some [tutorials](https://github.com/RamsesRosales/Tutorials/tree/main) that I ha
 
 ## Collaborations
 
-<a href="https://www.parkinsonlab.com/"><img align="right" src="media/pictures/Tsir.png" width=260></a>
+<a href="media/pictures/Tsir.png"><img align="right" src="media/pictures/Tsir.png" width=260></a>
 
 [![](https://img.shields.io/badge/Citation-Plos--One-blue)](https://doi.org/10.1371/journal.pone.0301225)
 - [CUGBF covid R package](https://github.com/CUGBF/deidentifiedDB)
