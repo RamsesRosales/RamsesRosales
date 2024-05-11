@@ -33,23 +33,30 @@ I have 4 years of experience in bioinformatics using a variety of -omic methodol
 
 # Main Repositories
 
-Main repositories I have worked on.
+Main repositories I have worked on
+
+<a href="https://www.parkinsonlab.com/"><img align="right" src="media/pictures/Cgodm.png" width=260></a>
 
 ## Main Publications
-
-<a href="https://www.parkinsonlab.com/"><img align="right" src="media/logos/ParkinsonLab_black.png" width=50></a>
 
 [![](https://img.shields.io/badge/Citation-Journal%20of%20Molecular%20Evolution-blue)](https://doi.org/10.1007/s00239-023-10115-2)
 - [Cerrophidion_selection](https://github.com/RamsesRosales/Cerrophidion_Selection) 
 - [Cerrophidion Crotoxin Models](https://github.com/RamsesRosales/ModelCrotA)
 
 
+<a href="https://www.parkinsonlab.com/"><img align="right" src="media/pictures/Covid19.png" width=200></a>
+
 ## Tutorials
 Some [tutorials](https://github.com/RamsesRosales/Tutorials/tree/main) that I have done.
 - [Earl Grey Installation](https://github.com/RamsesRosales/Tutorials/blob/main/EarlGrey/README.md)
 - [MySQL in HPC server](https://github.com/RamsesRosales/Tutorials/blob/main/mysqld/README.md)
 
+
+
 ## Collaborations
+
+<a href="https://www.parkinsonlab.com/"><img align="right" src="media/pictures/Tsir.png" width=260></a>
+
 [![](https://img.shields.io/badge/Citation-Plos--One-blue)](https://doi.org/10.1007/s00239-023-10115-2)
 - [CUGBF covid R package](https://github.com/CUGBF/deidentifiedDB)
 
