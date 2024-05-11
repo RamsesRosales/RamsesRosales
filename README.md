@@ -57,7 +57,7 @@ Some [tutorials](https://github.com/RamsesRosales/Tutorials/tree/main) that I ha
 
 <a href="https://www.parkinsonlab.com/"><img align="right" src="media/pictures/Tsir.png" width=260></a>
 
-[![](https://img.shields.io/badge/Citation-Plos--One-blue)](https://doi.org/10.1007/s00239-023-10115-2)
+[![](https://img.shields.io/badge/Citation-Plos--One-blue)](https://doi.org/10.1371/journal.pone.0301225)
 - [CUGBF covid R package](https://github.com/CUGBF/deidentifiedDB)
 
 [![](https://img.shields.io/badge/Accepted-Journal%20of%20Herpetology-blue)](https://github.com/theptin/Thamnophis-GloBI)
