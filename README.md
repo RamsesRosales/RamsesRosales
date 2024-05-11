@@ -35,22 +35,29 @@ I have 4 years of experience in bioinformatics using a variety of -omic methodol
 
 Main repositories I have worked on.
 
-## Publications
+## Main Publications
 
-- Cerrophidion
-- Crotoxin Models
+<a href="https://www.parkinsonlab.com/"><img align="right" src="media/logos/ParkinsonLab_black.png" width=50></a>
+
+[![](https://img.shields.io/badge/Citation-Journal%20of%20Molecular%20Evolution-blue)](https://doi.org/10.1007/s00239-023-10115-2)
+- [Cerrophidion_selection](https://github.com/RamsesRosales/Cerrophidion_Selection) 
+- [Cerrophidion Crotoxin Models](https://github.com/RamsesRosales/ModelCrotA)
+
 
 ## Tutorials
-- EarlGrey
-- Mysql in HPC server
+Some [tutorials](https://github.com/RamsesRosales/Tutorials/tree/main) that I have done.
+- [Earl Grey Installation](https://github.com/RamsesRosales/Tutorials/blob/main/EarlGrey/README.md)
+- [MySQL in HPC server](https://github.com/RamsesRosales/Tutorials/blob/main/mysqld/README.md)
 
 ## Collaborations
+[![](https://img.shields.io/badge/Citation-Plos--One-blue)](https://doi.org/10.1007/s00239-023-10115-2)
+- [CUGBF covid R package](https://github.com/CUGBF/deidentifiedDB)
 
-- CUGBF covid R package
-- Thamnophis papers
+[![](https://img.shields.io/badge/Accepted-Journal%20of%20Herpetology-blue)](https://github.com/theptin/Thamnophis-GloBI)
+- [Thamnophis diet data base](https://github.com/theptin/Thamnophis-GloBI)
 
 
-
+Journal of Herpetology.
 
 # GitHub Stats
 ![Rhett's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamsesRosales&show_icons=true)
