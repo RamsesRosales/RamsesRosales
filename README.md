@@ -53,7 +53,7 @@ Some [tutorials](https://github.com/RamsesRosales/Tutorials/tree/main) that I ha
 
 ## Shiny App R
 
-[![](https://img.shields.io/badge/Shiny.io-Mutation--Drift%20Simutator-blue)](https://ramsesrosales.shinyapps.io/mutation_drift_simulator/)
+[![](https://img.shields.io/badge/shinyapps.io-Mutation--Drift%20Simutator-blue)](https://ramsesrosales.shinyapps.io/mutation_drift_simulator/)
 - [Mutation_Drift_Simulator](https://github.com/RamsesRosales/Mutation_Drift_Simulator)
 
 
