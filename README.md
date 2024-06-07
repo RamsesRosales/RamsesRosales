@@ -1,6 +1,6 @@
 <div align="center">
 <center>
-	<h1>Ramses Alejandro Rosales Garcia, Ph.D. student</h1>
+	<h1>Ramses Alejandro Rosales Garcia, Ph.D. candidate</h1>
 	<h3>Evolution | Ecology | Genomics | Bioinformatics</h3>
 	<h3>Welcome to my GitHub Page!</h3>
 	<img src="media/dna.gif" width=110>
@@ -44,25 +44,32 @@ Main repositories I have worked on
 - [Cerrophidion Crotoxin Models](https://github.com/RamsesRosales/ModelCrotA)
 
 
-<a href="media/pictures/Covid19.png"><img align="right" src="media/pictures/Covid19.png" width=200></a>
-
 ## Tutorials
 Some [tutorials](https://github.com/RamsesRosales/Tutorials/tree/main) that I have done.
 - [Earl Grey Installation](https://github.com/RamsesRosales/Tutorials/blob/main/EarlGrey/README.md)
 - [MySQL in HPC server](https://github.com/RamsesRosales/Tutorials/blob/main/mysqld/README.md)
 
+<a href="media/pictures/Covid19.png"><img align="right" src="media/pictures/Covid19.png" width=200></a>
+
+## Shiny App R
+
+[![](https://img.shields.io/badge/Shiny.io-Mutation--Drift%20Simutator-blue)](https://ramsesrosales.shinyapps.io/mutation_drift_simulator/)
+- [Mutation_Drift_Simulator](https://github.com/RamsesRosales/Mutation_Drift_Simulator)
 
 
 ## Collaborations
 
-<a href="media/pictures/Tsir.png"><img align="right" src="media/pictures/Tsir.png" width=260></a>
+
 
 [![](https://img.shields.io/badge/Citation-Plos--One-blue)](https://doi.org/10.1371/journal.pone.0301225)
 - [CUGBF covid R package](https://github.com/CUGBF/deidentifiedDB)
+- [CU_spring_break_2021](https://github.com/CUGBF/CU_spring_break_2021)
+- [CU_spring_break_2021](https://github.com/CUGBF/CU_spring_break_2022)
+
+<a href="media/pictures/Tsir.png"><img align="right" src="media/pictures/Tsir.png" width=260></a>
 
 [![](https://img.shields.io/badge/Accepted-Journal%20of%20Herpetology-blue)](https://github.com/theptin/Thamnophis-GloBI)
 - [Thamnophis diet data base](https://github.com/theptin/Thamnophis-GloBI)
-
 
 Journal of Herpetology.
 
