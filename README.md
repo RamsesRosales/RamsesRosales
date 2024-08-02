@@ -68,10 +68,10 @@ Some [tutorials](https://github.com/RamsesRosales/Tutorials/tree/main) that I ha
 
 <a href="media/pictures/Tsir.png"><img align="right" src="media/pictures/Tsir.png" width=260></a>
 
-[![](https://img.shields.io/badge/Accepted-Journal%20of%20Herpetology-blue)](https://github.com/theptin/Thamnophis-GloBI)
+[![](https://img.shields.io/badge/Accepted-Journal%20of%20Herpetology-blue)](https://doi.org/10.1670/23-048)
 - [Thamnophis diet data base](https://github.com/theptin/Thamnophis-GloBI)
 
-Journal of Herpetology.
+
 
 # GitHub Stats
 ![Rhett's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamsesRosales&show_icons=true)
